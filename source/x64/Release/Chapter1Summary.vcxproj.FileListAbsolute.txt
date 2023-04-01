@@ -1,0 +1,2 @@
+C:\Project\InsideOpenGL\Chapter1Summary\x64\Release\Chapter1Summary.exe
+C:\Project\InsideOpenGL\source\x64\Release\Chapter1Summary.exe
